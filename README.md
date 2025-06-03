@@ -84,3 +84,9 @@ npm run dev
 - Clean and intuitive UI
 
 
+## Pictures
+<img src="/Picture1.png" alt="Upload UI" width="500"/>
+<img src="/Picture2.png" alt="Upload UI" width="500"/>
+<img src="/Picture3.png" alt="Upload UI" width="500"/>
+<img src="/Picture4.png" alt="Upload UI" width="500"/>
+<img src="/Picture5.png" alt="Upload UI" width="500"/>
