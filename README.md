@@ -40,7 +40,6 @@ npm install
 3. Create a .env file with the following variables:
 
 ```
-PORT=5000
 GEMINI_API_KEY=your_gemini_api_key
 ```
 
@@ -83,3 +82,5 @@ npm run dev
 - Romanized text generation
 - Detailed meaning explanation
 - Clean and intuitive UI
+
+
