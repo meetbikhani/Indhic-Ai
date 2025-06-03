@@ -10,7 +10,6 @@ This application helps users understand poems in different languages by providin
 
 - Frontend: React (Vite)
 - Backend: Node.js, Express
-- Database: MongoDB
 - AI: Google Gemini API
 
 ## Project Structure
@@ -63,13 +62,7 @@ cd frontend
 npm install
 ```
 
-3. Create a .env file:
-
-```
-VITE_API_URL=http://localhost:5000
-```
-
-4. Start the development server:
+3. Start the development server:
 
 ```bash
 npm run dev
